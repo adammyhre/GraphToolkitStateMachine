@@ -1,0 +1,21 @@
+{
+    "name": "StateMachine.Editor",
+    "rootNamespace": "StateMachine.Editor",
+    "references": [
+        "Unity.GraphToolkit.Common.Editor",
+        "Unity.GraphToolkit.Utility.Editor",
+        "Unity.GraphToolkit.Editor",
+        "StateMachine.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
